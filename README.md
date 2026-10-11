@@ -1,8 +1,8 @@
 # Numerical Integration: Composite Trapezoidal and Simpson Rules
 
-**Author:** Abir Ben Harrou
-**Course:** Mathematics for AI
-**Date:** 11/10/2026
+### Author: Abir Ben Harrou
+### Course: Mathematics for AI
+### Date: 11/10/2026
 
 ## Description
 
